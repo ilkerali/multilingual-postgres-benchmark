@@ -20,7 +20,7 @@ See requirements.txt for Python dependencies
 Setup
 1. Clone and install
 
-git clone https://github.com/ilkerali/multilingual-postgres-benchmark.git
+git clone https://github.com/i******i/multilingual-postgres-benchmark.git
 cd multilingual-postgres-benchmark
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
