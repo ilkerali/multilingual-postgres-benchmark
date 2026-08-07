@@ -7,7 +7,7 @@ DATABASE_CONFIG = {
     "port":     int(os.environ.get("PGPORT", 3333)),
     "database": os.environ.get("PGDATABASE", "multilingual_db_v4"),
     "user":     os.environ.get("PGUSER", "benchmark"),
-    "password": os.environ.get("PGPASSWORD", "benchmark123"),
+    "password": os.environ.get("PGPASSWORD", "********"),
 }
 
 # --- Experimental parameters -----------------------------------------------------
